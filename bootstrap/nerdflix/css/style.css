@@ -1,0 +1,67 @@
+#logo{
+    height: 40px;
+}
+body{
+    background-color: #000;
+    color: #fff;
+}
+
+#header-img{
+    /*background-image: url(https://images.alphacoders.com/441/441002.jpg);*/
+    background: linear-gradient(rgba(0, 0, 0, 0.60), rgba(0, 0, 0, 0.60)), url(https://images.alphacoders.com/441/441002.jpg);
+    height: 500px;
+    background-size: cover;
+    background-attachment: fixed;
+    padding-top: 12%;
+    
+    color: #fff;
+}
+
+#input-header{
+    width: 50%;
+    margin: auto;
+}
+
+.borde{
+    border-bottom: 12px solid #222;
+}
+
+.rounded-img{
+    border-radius: 40%;
+    height: 220px;
+}
+
+.card-header{
+    background-color: black;
+}
+
+.card-body{
+    color: black;
+    text-align: justify;
+}
+
+
+.titulo-pelicula{
+    border-bottom: 2px solid white
+}
+
+.precios{
+    font-weight: lighter;
+}
+
+
+.color-fondo{
+    background-color: #b1b4b7;
+}
+
+.tarjetas-avengers{
+    display: flex;
+    align-items: flex-end;
+}
+
+
+
+.indiana-jones{
+    align-items: flex-end;
+    display: flex;
+}
